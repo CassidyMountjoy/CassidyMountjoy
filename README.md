@@ -2,7 +2,7 @@
 - Go Developing
 - Gnar Shredding
 
-![Alt Text](https://giphy.com/embed/bONmTUTo4kzS0)
+<iframe src="https://giphy.com/embed/bONmTUTo4kzS0" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bONmTUTo4kzS0">via GIPHY</a></p>
 
 <!---
 CassidyMountjoy/CassidyMountjoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
