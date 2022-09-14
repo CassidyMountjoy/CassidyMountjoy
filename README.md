@@ -1,6 +1,3 @@
-- Blockpoint Balling
-- Go Developing
-- Gnar Shredding
 
 <!---
 CassidyMountjoy/CassidyMountjoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
